@@ -1,0 +1,90 @@
+[
+    {
+        "question": "What services do you offer?",
+        "answer": "We provide AI and ML chatbot development using NLP."
+    },
+    {
+        "question": "How can I contact support?",
+        "answer": "You can contact our support via email at support@example.com."
+    },
+    {
+        "question": "What is your pricing model?",
+        "answer": "Our pricing is based on project complexity and support requirements."
+    },
+    {
+        "question": "Do you offer chatbot integration with websites?",
+        "answer": "Yes, we offer seamless chatbot integration with websites and apps."
+    },
+    {
+        "question": "Can your chatbot understand Nepali language?",
+        "answer": "Yes, our chatbots support both English and Nepali using NLP techniques."
+    },
+    {
+        "question": "What platforms do you support?",
+        "answer": "We support web, Android, iOS, Facebook Messenger, and WhatsApp."
+    },
+    {
+        "question": "Do you provide AI model training services?",
+        "answer": "Yes, we offer custom AI model training and deployment services."
+    },
+    {
+        "question": "What is the average project timeline?",
+        "answer": "Most chatbot projects are completed within 2 to 4 weeks."
+    },
+    {
+        "question": "Can I customize the chatbot responses?",
+        "answer": "Absolutely. You can fully customize questions, answers, and workflows."
+    },
+    {
+        "question": "Do you use GPT models?",
+        "answer": "Yes, we use OpenAI's GPT models for advanced NLP capabilities."
+    },
+    {
+        "question": "Is user data stored securely?",
+        "answer": "Yes, we follow strict data security policies and encryption standards."
+    },
+    {
+        "question": "Do you provide multilingual chatbot support?",
+        "answer": "Yes, we support multiple languages based on your business needs."
+    },
+    {
+        "question": "Can I test the chatbot before final deployment?",
+        "answer": "Yes, we offer testing and staging environments before going live."
+    },
+    {
+        "question": "What industries do you work with?",
+        "answer": "We work with education, healthcare, ecommerce, finance, and more."
+    },
+    {
+        "question": "Do you provide chatbot analytics?",
+        "answer": "Yes, we provide dashboards for usage, conversation flow, and accuracy."
+    },
+    {
+        "question": "How do I get a quote?",
+        "answer": "Please contact us with your requirements and we’ll send a quote."
+    },
+    {
+        "question": "Do you offer 24/7 support?",
+        "answer": "Yes, we offer round-the-clock support for enterprise clients."
+    },
+    {
+        "question": "Can your chatbot make API calls?",
+        "answer": "Yes, our advanced bots can integrate and interact via APIs."
+    },
+    {
+        "question": "Can I use the chatbot on my mobile app?",
+        "answer": "Yes, we support chatbot SDKs for mobile app integration."
+    },
+    {
+        "question": "Do you support voice-enabled bots?",
+        "answer": "Yes, we can build voice-enabled bots using speech recognition."
+    },
+    {
+        "question": "Is there a free trial available?",
+        "answer": "Yes, we offer a limited-time free trial for basic chatbot features."
+    },
+    {
+        "question": "Do you provide chatbot maintenance?",
+        "answer": "Yes, we provide ongoing maintenance and feature updates."
+    }
+]
