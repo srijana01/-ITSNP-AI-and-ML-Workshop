@@ -6,6 +6,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 def chat():
+    
     print("Chatbot is ready! Type 'exit' to quit.")
     while True:
         question = input("You: ")
